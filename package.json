@@ -1,0 +1,10 @@
+{
+  "name": "browserify-test",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "browserify": "^6.3",
+    "6to5ify": "^3.1.2",
+    "lodash": "^2.4"
+  }
+}
